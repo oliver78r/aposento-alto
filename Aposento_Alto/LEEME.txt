@@ -1,0 +1,15 @@
+APOSENTO ALTO — SITIO WEB
+
+Incluye código React + TypeScript + Vite + Tailwind CSS, imágenes y versión compilada en dist.
+
+Para editar y ejecutar:
+1. Instala Node.js (versión 22 o posterior).
+2. Abre una terminal en esta carpeta.
+3. Ejecuta: npm ci
+4. Ejecuta: npm run dev
+5. Abre la dirección que muestre la terminal.
+
+Para generar la versión para publicar: npm run build
+La carpeta dist contiene la web compilada. Sírvela desde un servidor web; no abras index.html con doble clic.
+
+El mapa utiliza OpenStreetMap y requiere internet. Las fuentes de Google también requieren internet.
