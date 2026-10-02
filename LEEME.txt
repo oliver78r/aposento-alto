@@ -1,0 +1,9 @@
+APOSENTO ALTO - LISTO PARA GITHUB PAGES
+
+Extrae el ZIP y sube TODO su contenido directamente a la carpeta que publica GitHub Pages. index.html debe quedar en esa carpeta junto con assets y las imágenes. No subas el ZIP sin extraer.
+
+Para publicarlo en la raíz del repositorio: Settings > Pages > Deploy from a branch > main > / (root) > Save.
+
+Si colocas estos archivos en una subcarpeta, agrega /nombre-de-la-carpeta/ a la URL de tu sitio.
+
+No requiere npm ni compilación. El mapa y fuentes requieren internet.
